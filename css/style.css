@@ -1,0 +1,11 @@
+body {
+    background-color: darkblue;
+}
+
+main{
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding-top: 1%;
+    border: solid 3px red;
+}
